@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m ![@ashishkushwaha22](https://github.com/ashishkushwaha22)<br>🌱 I’m currently learning Data Structure & Algorithms<br>👀 I’m looking to collaborate on python language based projects<br>📫 You can reach me on ashishkush1122@gmail.com
+👋 Hi, I’m ![ashishkushwaha22](https://github.com/ashishkushwaha22)<br>🌱 I’m currently learning Data Structure & Algorithms<br>👀 I’m looking to collaborate on python language based projects<br>📫 You can reach me on ashishkush1122@gmail.com
 
 
 ## 🌐 Socials:
