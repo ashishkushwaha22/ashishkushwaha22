@@ -1,6 +1,12 @@
-# 💫 About Me:
-👋 Hi, I’m Ashish kushwaha.<br>🌱 I’m currently learning Data Structure & Algorithms.<br>👀 I’m looking to collaborate on python language based projects.<br>📫 You can reach me on ashishkush1122@gmail.com
+# 💫 Hello, World! 👋
+I'm Ashish Kushwaha, a dedicated software developer based in India 🇮🇳. I'm passionate about leveraging technology to create innovative solutions that solve real-world problems.
 
+I specialize in full-stack development, with expertise in:
+
+Languages: Python, JavaScript (Node.js), TypeScript
+Frameworks: Django, Flask, Angular
+Cloud Platforms: AWS, Azure
+Databases: MongoDB, MySQL
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__unsullied/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashishkushwaha22/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ashishk_143) 
